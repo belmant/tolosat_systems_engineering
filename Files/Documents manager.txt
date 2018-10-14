@@ -1,0 +1,30 @@
+MANAGEMENT DOCUMENTS (all for IS)
+
+- Logs des réunions IS
+
+- Préparation/compte-rendu des réunions TOLOSAT (2 semaines seulement)
+
+- Management guide (to be completed)
+
+- Concurrent Engineering setup document (to be completed)
+	- trade-off (to commment/document)
+
+- Personnel management document (list of members + RSS + roles)
+
+TECHNICAL DOCUMENTS (IS + subsystems)
+
+- Mission requirements document (to be updated by PAYLOAD)
+
+---> System requirements (to be completed by IS)
+
+--------> Subsystem requirements (all subsystems)
+
+
+TO CREATE
+
+- MBSE objectives and setup (IS - MBSE responsible)
+
+
+
+
+
