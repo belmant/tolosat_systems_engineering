@@ -1,6 +1,6 @@
-MANAGEMENT DOCUMENTS (all for IS)
+MANAGEMENT DOCUMENTS (all for SE)
 
-- Logs des réunions IS
+- SE meeting logs
 
 - Préparation/compte-rendu des réunions TOLOSAT (2 semaines seulement)
 
@@ -11,18 +11,18 @@ MANAGEMENT DOCUMENTS (all for IS)
 
 - Personnel management document (list of members + RSS + roles)
 
-TECHNICAL DOCUMENTS (IS + subsystems)
+TECHNICAL DOCUMENTS (SE + subsystems)
 
 - Mission requirements document (to be updated by PAYLOAD)
 
----> System requirements (to be completed by IS)
+---> System requirements (to be completed by SE)
 
 --------> Subsystem requirements (all subsystems)
 
 
 TO CREATE
 
-- MBSE objectives and setup (IS - MBSE responsible)
+- MBSE objectives and setup (SE - MBSE responsible)
 
 
 
