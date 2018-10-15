@@ -2,7 +2,7 @@ MANAGEMENT DOCUMENTS (all for SE)
 
 - SE meeting logs
 
-- Préparation/compte-rendu des réunions TOLOSAT (2 semaines seulement)
+- Preparation/report for project-wide meetings (2 semaines seulement)
 
 - Management guide (to be completed)
 
