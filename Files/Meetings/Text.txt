@@ -1,6 +1,0 @@
-Hi everyone!
-
-
-For Thursday, same as last week we will meet *from 17:00 to 19:00 in the same room (GP 217)*. The teams will be complete this week with the newcomers from the ASTRE. Every subsystem should then be filled and ready to work. We have one month before Concurrent Engineering, you will all need to be ready for concurrent engineering sessions (establishing budgets, identifying and asking for inputs parameters, subsystem architecture...).
-
-I strongly advise you to meet within your own subsystem before next Thursday and in general between project-wide meetings. The Thursday after that (11/25), there will not be a project-wide meeting.
