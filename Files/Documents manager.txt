@@ -2,7 +2,7 @@ MANAGEMENT DOCUMENTS (all for SE)
 
 - SE meeting logs
 
-- Preparation/report for project-wide meetings (2 semaines seulement)
+- Preparation/report for project-wide meetings
 
 - Management guide (to be completed)
 
