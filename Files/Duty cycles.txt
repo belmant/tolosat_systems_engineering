@@ -1,5 +1,0 @@
-Eclipse: 33%
-Transmission: 3%
-Recharge: 24%
-Iridium: 20%
-GNSS: 20%
